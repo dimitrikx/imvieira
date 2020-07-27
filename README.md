@@ -23,7 +23,6 @@ The usual we do when we are learning a new programming language is to print ```H
   </a>
 </p>
 
-<IMG SRC="javascript:alert('XSS');">
 
 ## Hi, Lasanha here! :wave:
 
