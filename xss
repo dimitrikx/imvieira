@@ -7,3 +7,19 @@ imvieiravovobina
 <STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
 
 <STYLE type="text/css">BODY{background:url("<javascript:alert>('XSS')")}</STYLE>
+
+novaslinhas
+novaslinhas
+novaslinhas
+jdbc/database, password='changeit', port=50000;
+novaslinhas
+novaslinhas
+novaslinhas
+jdbc/database, token='changeit', port=50000;
+novaslinhas
+novaslinhas
+novaslinhas
+jdbc/database, secret='changeit', port=50000;
+novaslinhas
+novaslinhas
+novaslinhas
